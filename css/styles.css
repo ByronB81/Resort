@@ -5,7 +5,7 @@ h1 {
 }
 
 h2 {
-  color: grey;
+  color: lightseagreen;
   text-align: center;
   font-family: cursive;
 }
@@ -13,8 +13,9 @@ h2 {
 p {
   color: black
   font-family: sans-serif;
+  font-size: 18;
 }
 
 body {
-  background-color: skyblue
+  background-color: lightblue;
 }
